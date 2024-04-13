@@ -34,9 +34,6 @@ bin/
 .project
 .settings/
 
-# SQL database dump files
-*.sql
-
 # Build artifacts
 out/
 
