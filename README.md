@@ -24,7 +24,7 @@ Will be made by four members.
 
 4. **Set Up XAMPP Control Panel:**
    - Install and set up XAMPP on your system.
-   - Start the XAMPP control panel. Turn on Apache Service first, then MySql.
+   - Start the XAMPP control panel. Turn on Apache Service first, then MySql. Note that while turning the Control panel, turn off the features in reverse order (No idea why but this doesn't mess up the Xampp Control panel). Also, let it run in the background.
    - Create and account with all priveleges and remember the username and password of the account (You will need this in the future).
    
 5. **Import the Database:**
