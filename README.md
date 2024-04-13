@@ -33,7 +33,7 @@ Will be made by four members.
    - Choose the `gym.sql` file located in the `/database` directory of the project.
 
 6. **Run the Application:**
-   - In Eclipse, navigate to `/src/database/Database.java`. Go to line 25, 26. Change the username and password that you used to set-up the Xampp admin.
+   - In Eclipse, navigate to `/src/database/Database.java`. Go to line 25, 26. Change the username and password that you used to set-up the Xampp admin account.
    - Run the application.
 
 7. **Login Credentials:**
