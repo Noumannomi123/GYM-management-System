@@ -24,15 +24,16 @@ Will be made by four members.
 
 4. **Set Up XAMPP Control Panel:**
    - Install and set up XAMPP on your system.
-   - Start the XAMPP control panel.
-
+   - Start the XAMPP control panel. Turn on Apache Service first, then MySql.
+   - Create and account with all priveleges and remember the username and password of the account (You will need this in the future).
+   
 5. **Import the Database:**
    - Open the XAMPP control panel.
    - Go to the "Import" tab.
    - Choose the `gym.sql` file located in the `/database` directory of the project.
 
 6. **Run the Application:**
-   - In Eclipse, navigate to `/src/login/Login.java`.
+   - In Eclipse, navigate to `/src/database/Database.java`. Go to line 25, 26. Change the username and password that you used to set-up the Xampp admin.
    - Run the application.
 
 7. **Login Credentials:**
