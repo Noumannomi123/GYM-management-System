@@ -15,7 +15,7 @@ It's an interactive Java Based GUI application which offers various features for
    - Under `Libraries` or `ClassPath`, add the `mysql-connector-x.x.x.jar` file.
 
 3. **Resolve Swing or Similar Errors:**
-   - If there are errors related to Swing or similar libraries, add the required Java SE version in the Module Path in Java Build Path.
+   - If there are errors related to Swing or similar libraries, add the required Java SE version in the Module Path in Java Build Path. If this deosn't fix it, Google the problem and you will most certainly find the fix.
 
 4. **Set Up XAMPP Control Panel:**
    - Install and set up XAMPP on your system.
