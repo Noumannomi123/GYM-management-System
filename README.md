@@ -54,4 +54,4 @@ Some of the bugs are related to the database entries. Others are due to time con
 
 ## Screenshots
 ![User Login](Screenshots/Screenshot%202024-04-14%20232437.png)
-![Screenshot](Screenshots/2024-04-14%(2).png)
+![Screenshot](Screenshots/2024-04-14 (2).png)
