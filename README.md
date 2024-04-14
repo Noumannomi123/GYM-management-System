@@ -53,7 +53,7 @@ Will be made by four members.
 Some of the bugs are related to the database entries. Others are due to time contraints.
 
 ## Screenshots
-- **User Login**
+- **User Login:**
   ![User Login](Screenshots/Screenshot%202024-04-14%20232437.png)
   
 - **Member:**
