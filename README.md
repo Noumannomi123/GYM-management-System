@@ -48,5 +48,10 @@ Will be made by four members.
 - Training Sessions is not working 100%. (Staff)
 - On removing staff, foreign key constraint key fails. (Admin)
 - Registration Manager has no working module. (Registraion Manager)
+
 ## Note for Bugs
 Some of the bugs are related to the database entries. Others are due to time contraints.
+
+## Screenshots
+![Screenshot](Screenshots/2024-04-14.png)
+##
