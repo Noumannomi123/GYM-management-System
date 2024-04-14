@@ -34,7 +34,7 @@ Will be made by four members.
 
 6. **Run the Application:**
    - In Eclipse, navigate to `/src/database/Database.java`. Go to line 25, 26. Change the username and password that you used to set-up the Xampp admin account.
-   - Run the application.
+   - Run the application through `/src/login/Login.java/` file.
 
 7. **Login Credentials:**
    - Use the login credentials found in the `UserLogin` database table when prompted.
