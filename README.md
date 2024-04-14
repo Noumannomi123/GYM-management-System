@@ -41,3 +41,11 @@ Will be made by four members.
 
 8. **Enjoy Using the GymPro Vision System:**
    - Explore the features and functionalities of the system.
+
+## Known Bugs
+- Fitness Goals, Plans are set for all members instead of selected member. (Member)
+- Adding Fitness Class causes duplicate entry of Primary Key. (Staff)
+- Training Sessions is not working 100%. (Staff)
+- On removing staff, foreign key constraint key fails. (Admin)
+## Note for Bugs
+Some of the bugs are related to the database entries. Others are due to time contraints.
