@@ -47,6 +47,6 @@ Will be made by four members.
 - Adding Fitness Class causes duplicate entry of Primary Key. (Staff)
 - Training Sessions is not working 100%. (Staff)
 - On removing staff, foreign key constraint key fails. (Admin)
-- Registration Manager has no working module. (Regiistraion Manager)
+- Registration Manager has no working module. (Registraion Manager)
 ## Note for Bugs
 Some of the bugs are related to the database entries. Others are due to time contraints.
