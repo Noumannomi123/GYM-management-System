@@ -53,5 +53,5 @@ Will be made by four members.
 Some of the bugs are related to the database entries. Others are due to time contraints.
 
 ## Screenshots
-![Screenshot](Screenshots/2024-04-14.png)
+![Screenshot](Screenshot 2024-04-14 232437.png)
 ##
